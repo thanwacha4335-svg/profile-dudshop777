@@ -1,6 +1,6 @@
 # DUDSHOP777 Profile
 
-เว็บไซต์โปรไฟล์แยกจากโปรเจกต์ร้านค้า DUDSHOP777
+MYNAME IS DUDSHOP777
 
 ## วิธีแก้ไขข้อมูล
 เปิดไฟล์ `app/page.tsx`
